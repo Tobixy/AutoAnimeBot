@@ -3,18 +3,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN")
+API_ID = int(getenv("28374181"))
+API_HASH = getenv("00b7ca7f535e816590db39e76f85d0c7")
+BOT_TOKEN = getenv("6370339719:AAGbNkpNu9yMg2npGm13htripTcLw2idK08")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI")
+MONGO_DB_URI = getenv("mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority")
 
-INDEX_ID = int(getenv("INDEX_ID"))
-UPLOADS_ID = int(getenv("UPLOADS_ID"))
+INDEX_ID = int(getenv("-1001762803339"))
+UPLOADS_ID = int(getenv("-1001948604900"))
 
-STATUS_ID = int(getenv("STATUS_ID"))
-SCHEDULE_ID = int(getenv("SCHEDULE_ID"))
+STATUS_ID = int(getenv("12087"))
+SCHEDULE_ID = int(getenv("12090"))
 
-CHANNEL_TITLE = getenv("CHANNEL_TITLE")
-INDEX_USERNAME = getenv("INDEX_USERNAME")
-UPLOADS_USERNAME = getenv("UPLOADS_USERNAME")
+CHANNEL_TITLE = getenv("auto_testhub")
+INDEX_USERNAME = getenv("auto_testhub")
+UPLOADS_USERNAME = getenv("auto_testhub")
