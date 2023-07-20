@@ -10,7 +10,7 @@ BOT_TOKEN = getenv("6370339719:AAGbNkpNu9yMg2npGm13htripTcLw2idK08")
 MONGO_DB_URI = getenv("mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority")
 
 INDEX_ID = int(getenv("-1001762803339"))
-UPLOADS_ID = int(getenv("-1001948604900"))
+UPLOADS_ID = int(getenv("-1001762803339"))
 
 STATUS_ID = int(getenv("12087"))
 SCHEDULE_ID = int(getenv("12090"))
