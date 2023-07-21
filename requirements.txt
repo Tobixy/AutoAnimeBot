@@ -2,7 +2,7 @@ pyrogram==1.4.16
 TgCrypto
 aiohttp
 python-dotenv
-feedparser
+feedparser==6.0.10
 libtorrent
 pillow
 requests
